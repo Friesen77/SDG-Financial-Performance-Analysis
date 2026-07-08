@@ -22,7 +22,7 @@ The objective is to evaluate whether SDG adoption contributes to predicting a co
 
 ### Sector & Industry Analysis
 
-![Sector & Industry Analysis](dashboard/images/sector_analysis.jpg)
+![Sector & Industry Analysis](dashboard/images/sector_industry_analysis.jpg)
 
 📄 **View the complete dashboard:** [dashboard/dashboard.pdf](dashboard/dashboard.pdf)
 
